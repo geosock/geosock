@@ -6,6 +6,6 @@ My name is Benjamin, and I am a Data Analytics and Applied Mathematics student a
 
 - Web application to gather points of interest from Google Places and Maps APIs without wasting query space. 
 
-In my spare time, I enjoy backpacking, photography/travel journaling ([check out my portfolio!](www.benwedepohl.com), drawing, and tinkering with various projects.
+In my spare time, I enjoy backpacking, photography/travel journaling [check out my portfolio!](www.benwedepohl.com), drawing, and tinkering with various projects.
 
 Thanks for reading 👋
